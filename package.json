@@ -1,0 +1,47 @@
+{
+  "name": "reloop-role-intel-mcp",
+  "version": "1.1.3",
+  "description": "MCP server for the ReLoop.me Role Intel API: capability intelligence for job ads. Free quick check of any job ad in ~10 s (no key), plus full reads of true seniority, capability mix, operating style and requirement inflation. Reads roles, never people.",
+  "mcpName": "io.github.LigiaAdam/reloop-role-intel",
+  "type": "module",
+  "bin": {
+    "reloop-role-intel-mcp": "index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE",
+    "server.json"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "job-ads",
+    "hiring",
+    "skills-based-hiring",
+    "capability-intelligence",
+    "reloop",
+    "job-description",
+    "ai-agents",
+    "job-search",
+    "career",
+    "pay-transparency"
+  ],
+  "homepage": "https://api.reloop.me/",
+  "author": "ReLoop.me (ZORRI S.R.L.) <hello@reloop.me>",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.32.1",
+    "zod": "3.25.76"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LigiaAdam/reloop-role-intel-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LigiaAdam/reloop-role-intel-mcp/issues"
+  }
+}

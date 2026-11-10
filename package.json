@@ -1,7 +1,7 @@
 {
   "name": "reloop-role-intel-mcp",
-  "version": "1.1.3",
-  "description": "MCP server for the ReLoop.me Role Intel API: capability intelligence for job ads. Free quick check of any job ad in ~10 s (no key), plus full reads of true seniority, capability mix, operating style and requirement inflation. Reads roles, never people.",
+  "version": "1.1.4",
+  "description": "MCP server for the ReLoop.me Role Intel API: capability intelligence for job ads. Free quick check of any job ad in about 15 s (no key), plus full reads of true seniority, capability mix, operating style and requirement inflation. Reads roles, never people.",
   "mcpName": "io.github.LigiaAdam/reloop-role-intel",
   "type": "module",
   "bin": {

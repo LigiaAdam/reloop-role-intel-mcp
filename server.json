@@ -1,14 +1,14 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
   "name": "io.github.LigiaAdam/reloop-role-intel",
-  "description": "Read between the lines of a job ad: real level, inflation, capabilities. Free quick check, no key.",
-  "version": "1.1.3",
+  "description": "Reads a job ad: real level, title vs scope, inflation, capabilities. Free quick check, no key.",
+  "version": "1.1.4",
   "websiteUrl": "https://api.reloop.me/",
   "packages": [
     {
       "registryType": "npm",
       "identifier": "reloop-role-intel-mcp",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "transport": {
         "type": "stdio"
       },
